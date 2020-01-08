@@ -3,7 +3,6 @@
 #include <string>
 #include <map>
 #include <vector>
-#include <queue>
 
 class ExpressionTree
 {
